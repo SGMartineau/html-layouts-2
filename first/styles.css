@@ -1,0 +1,66 @@
+p {
+    font-size: 15px;
+    margin: 3% 1% 3% 1%;
+    line-height: 19px;
+    font-family: serif;
+    }
+
+.upper {
+    margin: 1.5% 1%;
+    width: 31.333333%;
+    height: 14%;
+    float: left;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: dodgerblue;
+}
+
+.gray {
+    background-color: dimgray;
+}
+
+.mid {
+    height: 33%;
+    float: left;
+}
+
+.mleft {
+    margin: 1% 0 1% 1%;
+    width: 33%;
+}
+
+.mright {
+    margin: 1% 1% 1% 0;
+    width: 65%;
+}
+
+.bot {
+    height: 12%;
+    float: left;
+}
+
+.bleft {
+    width: 64.66667%;
+    margin: 1% 0 1% 1%;
+}
+
+.bmid {
+    width: 27%;
+    margin: 1% 0;
+    
+}
+
+.blsmall {
+    width: 3.1%;
+    margin: 1% 0;
+}
+
+.brsmall {
+    width: 3.1%;
+    margin: 1% 1% 1% 0;
+}
